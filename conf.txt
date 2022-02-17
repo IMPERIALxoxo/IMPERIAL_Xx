@@ -1,0 +1,5 @@
+{
+	"ip":"Imperial_xoxo.aternos.me",
+	"port": "",
+	"name": "afkbot24/7"
+}
